@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Python/python-projects/yt_pb71_cs/.idea/PythonBasics_CS.iml" filepath="$PROJECT_DIR$/../../Python/python-projects/yt_pb71_cs/.idea/PythonBasics_CS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Udemy/DS_DP_ML_Python_FK/projects/code_snippets/.idea/code_snippets.iml" filepath="$PROJECT_DIR$/../Udemy/DS_DP_ML_Python_FK/projects/code_snippets/.idea/code_snippets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ny_subwaydata_analysis/.idea/ny_subwaydata_analysis.iml" filepath="$PROJECT_DIR$/../ny_subwaydata_analysis/.idea/ny_subwaydata_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../titanic_survival_prediction/.idea/titanic_survival_prediction.iml" filepath="$PROJECT_DIR$/../titanic_survival_prediction/.idea/titanic_survival_prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ud_359_dsintro.iml" filepath="$PROJECT_DIR$/.idea/ud_359_dsintro.iml" />
+    </modules>
+  </component>
+</project>

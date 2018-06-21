@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="titanic_survival_prediction" />
+    <orderEntry type="module" module-name="PythonBasics_CS" />
+    <orderEntry type="module" module-name="ny_subwaydata_analysis" />
+    <orderEntry type="module" module-name="ny_subwaydata_analysis" />
+    <orderEntry type="module" module-name="code_snippets" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
