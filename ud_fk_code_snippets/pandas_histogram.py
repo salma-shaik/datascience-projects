@@ -1,5 +1,3 @@
-import matplotlib as mp
-import numpy as np
 import pandas as pd
 
 past_hires = pd.read_csv('data_files/PastHires.csv')
