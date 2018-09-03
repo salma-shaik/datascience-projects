@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/.idea/PythonBasics_CS.iml" filepath="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/.idea/PythonBasics_CS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/code_snippets.iml" filepath="$PROJECT_DIR$/.idea/code_snippets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/.idea/main_census_merge.iml" filepath="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/.idea/main_census_merge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ny_subwaydata_analysis/.idea/ny_subwaydata_analysis.iml" filepath="$PROJECT_DIR$/../ny_subwaydata_analysis/.idea/ny_subwaydata_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas/.idea/sentdex_da_pandas.iml" filepath="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas/.idea/sentdex_da_pandas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ud_359_dsintro/.idea/ud_359_dsintro.iml" filepath="$PROJECT_DIR$/../ud_359_dsintro/.idea/ud_359_dsintro.iml" />
     </modules>
   </component>
 </project>

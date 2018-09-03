@@ -11,33 +11,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pandas_histogram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pandas_histogram.py">
+      <file leaf-file-name="geography_set.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/geography_set.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basic_stats_numpy.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic_stats_numpy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generate_nd_randoms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generate_nd_randoms.py">
+      <file leaf-file-name="pandas_merge_ex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/pandas_merge_ex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="582">
+              <caret line="143" column="76" lean-forward="false" selection-start-line="143" selection-start-column="76" selection-end-line="143" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pandas_join_ex.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/pandas_join_ex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DEC_10_SF1_P12_with_ann_county.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2010/DEC_10_SF1_P12_with_ann_county.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -48,23 +56,82 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>colors</find>
+      <find>loc</find>
+      <find>re Module</find>
+      <find>fiddy</find>
+      <find>print</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/matplotlib_scatterplot.py" />
         <option value="$PROJECT_DIR$/pandas_histogram.py" />
-        <option value="$PROJECT_DIR$/basic_stats_numpy.py" />
+        <option value="$PROJECT_DIR$/matplotlib_histogram.py" />
+        <option value="$PROJECT_DIR$/matplotlib_box_whisker_plot.py" />
+        <option value="$PROJECT_DIR$/matplotlib_xkcd.py" />
+        <option value="$PROJECT_DIR$/matplotlib_scatterplot_exercise.py" />
+        <option value="$PROJECT_DIR$/correlation_covariance.py" />
+        <option value="$PROJECT_DIR$/cond_prob.py" />
+        <option value="$PROJECT_DIR$/multivariate_regression_car_prices.py" />
+        <option value="$PROJECT_DIR$/multivariate_regression_car_prices_ex.py" />
+        <option value="$PROJECT_DIR$/train_test_data.py" />
+        <option value="$PROJECT_DIR$/my_module.py" />
+        <option value="$PROJECT_DIR$/linear_regression.py" />
+        <option value="$PROJECT_DIR$/polynomial_regression.py" />
+        <option value="$PROJECT_DIR$/spam_classifier_impl.py" />
+        <option value="$PROJECT_DIR$/spam_classifier_train_test.py" />
+        <option value="$PROJECT_DIR$/kmeans_clustering_age_income.py" />
+        <option value="$PROJECT_DIR$/data_files/PastHires.csv" />
+        <option value="$PROJECT_DIR$/decision_trees_hires.py" />
+        <option value="$PROJECT_DIR$/svm_age_income.py" />
+        <option value="$PROJECT_DIR$/movie_similarities.py" />
+        <option value="$PROJECT_DIR$/movies_item_based_cf.py" />
+        <option value="$PROJECT_DIR$/movies_item_based_cf_ex.py" />
+        <option value="$PROJECT_DIR$/data_files/patrons.csv" />
+        <option value="$PROJECT_DIR$/data_files/data.txt" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/methods_special.py" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/data_files/simple.html" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/data_files/states.json" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/data_files/states1.json" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/days_paycredit.py" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/data_files/sample.txt" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/test1.py" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/test.py" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/test_test.py" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/sample_test.py" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/test_sample.py" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/unit_testing_emp_test.py" />
+        <option value="$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/sample.py" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/utilities/geographies.py" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/geographies.py" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas/test.py" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas/rolling_apply_and_mapping_functions.py" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas/using_scikit_learn.py" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2010/DEC_10_SF1_P12_with_ann_county.csv" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2010/DEC_10_SF1_P12_with_ann_county_rural.csv" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2010/DEC_10_SF1_P12_with_ann_county_urban.csv" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/csv_splitter.py" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/geography_set.py" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/pandas_merge_ex.py" />
+        <option value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/pandas_join_ex.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="646" />
+    <option name="x" value="745" />
     <option name="y" value="32" />
-    <option name="width" value="1086" />
-    <option name="height" value="960" />
+    <option name="width" value="995" />
+    <option name="height" value="967" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -81,29 +148,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="code_snippets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code_snippets" type="462c0819:PsiDirectoryNode" />
+              <item name="ud_fk_code_snippets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main_census_merge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="code_snippets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code_snippets" type="462c0819:PsiDirectoryNode" />
-              <item name="data_files" type="462c0819:PsiDirectoryNode" />
+              <item name="ud_fk_code_snippets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main_census_merge" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas/data_files" />
+      <recent name="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_cities_2010" />
+      <recent name="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_cities_2000" />
+      <recent name="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2010" />
+      <recent name="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2000" />
+      <recent name="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,28 +198,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="pandas_histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.pandas_join_ex">
+    <configuration name="csv_splitter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="code_snippets" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_histogram.py" />
+      <module name="main_census_merge" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/csv_splitter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="geography_set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="main_census_merge" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/geography_set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pandas_join_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="main_census_merge" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/pandas_join_ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pandas_merge_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="main_census_merge" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/pandas_merge_ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="using_scikit_learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="sentdex_da_pandas" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas/using_scikit_learn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.geography_set" />
+      <item index="1" class="java.lang.String" itemvalue="Python.using_scikit_learn" />
+      <item index="2" class="java.lang.String" itemvalue="Python.csv_splitter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pandas_merge_ex" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pandas_join_ex" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.pandas_histogram" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.pandas_join_ex" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pandas_merge_ex" />
+        <item index="2" class="java.lang.String" itemvalue="Python.geography_set" />
+        <item index="3" class="java.lang.String" itemvalue="Python.csv_splitter" />
+        <item index="4" class="java.lang.String" itemvalue="Python.using_scikit_learn" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +322,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_unit_testing_emp_test_TestEmployee - 2018.08.05 at 14h 56m 52s.xml">
+      <configuration name="Unittests for unit_testing_emp_test.TestEmployee" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unit_testing_emp_test_TestEmployee - 2018.08.05 at 14h 58m 53s.xml">
+      <configuration name="Unittests for unit_testing_emp_test.TestEmployee" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unit_testing_emp_test_TestEmployee_test_apply_raise - 2018.08.05 at 14h 52m 09s.xml">
+      <configuration name="Unittests for unit_testing_emp_test.TestEmployee.test_apply_raise" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unit_testing_emp_test_TestEmployee_test_email - 2018.08.05 at 15h 12m 57s.xml">
+      <configuration name="Unittests for unit_testing_emp_test.TestEmployee.test_email" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unit_testing_emp_test_TestEmployee_test_email - 2018.08.05 at 15h 13m 39s.xml">
+      <configuration name="Unittests for unit_testing_emp_test.TestEmployee.test_email" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unit_testing_emp_test_TestEmployee_test_full_name - 2018.08.05 at 14h 53m 08s.xml">
+      <configuration name="Unittests for unit_testing_emp_test.TestEmployee.test_full_name" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_sample_py - 2018.08.05 at 14h 37m 00s.xml">
+      <configuration name="Unittests in test_sample.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_testing_emp_test_py - 2018.08.05 at 14h 51m 33s.xml">
+      <configuration name="Unittests in unit_testing_emp_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_testing_emp_test_py - 2018.08.05 at 15h 23m 44s.xml">
+      <configuration name="Unittests in unit_testing_emp_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_testing_emp_test_py - 2018.08.05 at 15h 24m 06s.xml">
+      <configuration name="Unittests in unit_testing_emp_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -168,95 +364,413 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="646" y="32" width="1086" height="960" extended-state="0" />
+    <frame x="745" y="32" width="995" height="967" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24976526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21560575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21618497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41909197" sideWeight="0.13920455" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22362386" sideWeight="0.86079544" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24948665" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34971428" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pandas_histogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_stats_numpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_histogram.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_histogram.py">
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/methods_special.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/data_files/simple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/cms_scrape.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/states.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="239" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/data_files/states.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3585">
+          <caret line="239" column="1" lean-forward="false" selection-start-line="239" selection-start-column="1" selection-end-line="239" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/data_files/states1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/new_states_json.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_histogram.py">
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/new_states.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="435">
+          <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generate_nd_randoms.py">
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/json_webdata_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/days_paycredit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/data_files/sample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/sqlite_emp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_stats_numpy.py">
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/employee.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/logging_emp_class.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/logging_emp_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/data_files/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/data_files/test1.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/unit_testing_calc_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/unit_testing_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/test_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/unit_testing_emp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/unit_testing_emp_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ny_subwaydata_analysis/turnstile_rows_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ny_subwaydata_analysis/ave_weekend_temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ny_subwaydata_analysis/avg_min_temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ny_subwaydata_analysis/combining_multiple_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ny_subwaydata_analysis/irregular_tunrstiledata_filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ny_subwaydata_analysis/subway_dates_reformatted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ny_subwaydata_analysis/subway_turnstile_hourly_entries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2000/DEC_00_SF1_P012_with_ann.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/parse_csv_readerwriter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/file_objects_reading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/generate_csv_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/parse_csv_dictreaderwriter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Python/python-projects/yt_pb71_cs/csvnames_htmloutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas/rolling_apply_and_mapping_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/sentdex_da_pandas/using_scikit_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2010/DEC_10_SF1_P12_with_ann_county_rural.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2010/DEC_10_SF1_P12_with_ann_county_urban.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/csv_splitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2010/DEC_10_SF1_P12_with_ann.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/data/census_county_2010/DEC_10_SF1_P12_with_ann_county.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/geography_set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/pandas_merge_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="143" column="76" lean-forward="false" selection-start-line="143" selection-start-column="76" selection-end-line="143" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Research/Criminal_Justice/python_projects/main_census_merge/pandas_join_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding />
         </state>
       </provider>
